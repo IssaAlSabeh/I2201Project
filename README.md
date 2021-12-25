@@ -1,6 +1,6 @@
 # I2201 Project
 
-#Project Members:
+# Project Members:
 Issa AlSabeh - 100529
 Ali Saab - 101865
 Rayan Dbouk - 100344
